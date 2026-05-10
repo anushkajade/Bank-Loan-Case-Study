@@ -1,6 +1,8 @@
 # Bank-Loan-Case-Study
 
-Dataset & Analysis: https://docs.google.com/spreadsheets/d/16RMPhYOg6gNa9pXHKeYRRe9hol0L2EFZ/edit?usp=drive_link&ouid=102667720912817803285&rtpof=true&sd=true
+Download the Full Analysis Workbook (.xlsx): 
+https://1drv.ms/x/c/6c0598488be284b4/IQAREszeIdSBTacTHSqIEtUjAS4B79-oFc8Yugd12thbfJk?e=KOW9X6
+(Note: Best viewed in Desktop Excel to see full charts and dashboards.)
 
 The company has two main objectives, that is to identify key factors of loan default and make informed decisions about loan approval.
 The dataset provided is related to Bank Loan Case Study where I had to identify patterns that indicate if a customer will have difficulty paying their installments.
